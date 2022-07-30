@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I'm Siddh Vyas from India, and I am currently CS student,learning Web Development from colt steele
+I'm Siddh Vyas from India, and I am currently CS student,learning Web Development from colt steele
 
    I’m currently working on crework's project , crework is community where people learn together, and build
 projects/tasks which is given by community leads/mentors.
