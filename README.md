@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm Siddh Vyas from India
-I am currently CS student
-learning Web Development 
-I’m currently working on crework's project
-looking to collaborate with developers 
-😄 Pronouns: He/him 
-⚡ Fun fact: love to make new friends
+* I'm Siddh Vyas from India
+* I am currently CS student
+* learning Web Development 
+* I’m currently working on crework's project
+* looking to collaborate with developers 
+* 😄 Pronouns: He/him 
+*⚡ Fun fact: love to make new friends
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [siddhvyas384@gmail.com](mailto:siddhvyas384@gmail.com)
